@@ -1,5 +1,5 @@
-# vueproject
-
+# App Recorder
+### this project allow users to record camera, screen and audio using the inbuild browser MediaRecorder Api.
 ## Project setup
 ```
 yarn install
